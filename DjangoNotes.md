@@ -11,15 +11,18 @@ cd my_django_project
 Create a virtual environment in your project directory using Python’s venv:
 
 `python -m venv myenv`
+
 This command initializes a virtual environment named myenv.
 
 ## Step 3: Activate the Virtual Environment
 Activate the virtual environment based on your operating system:
 
 **On Windows:**
+
 `myenv\Scripts\activate`
 
 **On macOS and Linux:**
+
 `source myenv/bin/activate`
 
 The virtual environment is now active.
